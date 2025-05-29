@@ -1,5 +1,5 @@
 <h1 align="center">I'm Cihat Yıldız</h1>
-<h3 align="center"> Data Scientist</h3>
+<h3 align="center">Senior Software Developer | Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cihatyldz" alt="cihatyldz"/></p>
 
