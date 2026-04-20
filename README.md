@@ -8,13 +8,13 @@
   <tr>
     <td><a href="https://www.linkedin.com/in/cihatyldz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
     <td><a href="https://www.kaggle.com/cihatyldz" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="kaggle" height="30" width="40" /></a></td>
+    <td><a href="https://www.youtube.com/@cihatyldz" target="blank"><img src="https://commons.wikimedia.org/wiki/File:YouTube_full-color_icon_%282017%29.svg" alt="youtube" height="30" width="40" /></a></td>
   </tr>
 </table>
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
-    <td><a href="https://www.android.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a></td>
     <td><a href="https://dbeaver.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/></a></td>
